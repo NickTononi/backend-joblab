@@ -1,8 +1,8 @@
 function loadEnpoints() {
     return {
-        "techs": require('./endpoints/techs')/*,
+        "techs": require('./endpoints/techs'),
         "clothes": require('./endpoints/clothes'),
-        "cars": require('./endpoints/cars')*/
+        "cars": require('./endpoints/cars')
     };
 }
 
